@@ -31,5 +31,9 @@ Para executar a automação e obter informações de jogos populares do Steam e 
 
 11. Verifique a tabela "games_db" no BigQuery para confirmar que os dados foram carregados com sucesso.
 
+12. Links do google sheets e do google BigQuery
+13. https://docs.google.com/spreadsheets/d/1WDK9wgrbmSwZQLVEvieBv0ySLtEEwapBvHF0qBVPTv0/edit#gid=1091232862
+14. https://console.cloud.google.com/bigquery?sq=844404026566:d6fb37ea074648a1beba7d8575c45585
+
 
 
