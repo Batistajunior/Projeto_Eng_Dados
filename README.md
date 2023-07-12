@@ -29,7 +29,7 @@ Para executar a automação e obter informações de jogos populares do Steam e 
 
 10. Aguarde até que a automação seja concluída. Os dados serão exportados para o arquivo CSV especificado em `games_output_file` e, em seguida, carregados no BigQuery.
 
-11. Verifique a tabela "games_db" no BigQuery para confirmar que os dados foram carregados com sucesso.
+11. Verifique o conjunto de dados "games_db" no BigQuery para confirmar que os dados foram carregados com sucesso.
 
 12. Links do google sheets e do google BigQuery
 13. https://docs.google.com/spreadsheets/d/1WDK9wgrbmSwZQLVEvieBv0ySLtEEwapBvHF0qBVPTv0/edit#gid=1091232862
